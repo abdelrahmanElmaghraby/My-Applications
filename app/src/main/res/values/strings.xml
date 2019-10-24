@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MovieStageApp1</string>
+    <string-array name="Movies">
+        <item>Joker</item>
+        <item>inter</item>
+        <item>Elimby</item>
+        <item>Boha</item>
+    </string-array>
+    <string-array name="rate">
+        <item>Good</item>
+        <item>bad</item>
+        <item>Good</item>
+        <item>Bad</item>
+    </string-array>
+</resources>
